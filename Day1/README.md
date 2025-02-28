@@ -8,4 +8,4 @@
 - Variable Naming
 
 ## Band Name Generator
-![Band Name Generator Gif]("images-gifs/band-name-generator.gif")
+![Band Name Generator Gif]("./images-gifs/band-name-generator.gif")
