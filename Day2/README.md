@@ -7,4 +7,4 @@
 - Number Manipulation and F Strings
 
 ## Tip Calculator
-![]()
+![Tip Calculator Gif](../images-gifs/tip-calculator.gif)
