@@ -28,7 +28,7 @@ choice1 = input("Would you like to go left or right? ").lower()
 if choice1 == 'left':
     choice2 = input("You have come to a lake. There is an island in the center of the lake. Type 'wait' to wait for a boat, or type 'swim' to swim across the lake: ").lower()
     if choice2 == 'wait':
-        choice3 = input("You arrive at the island. There is a house with 3 doors. One red, one yellow, and one blue. Which one do uyou choose? ").lower()
+        choice3 = input("You arrive at the island. There is a house with 3 doors. One red, one yellow, and one blue. Which one do you choose? ").lower()
         if choice3 == 'yellow':
             print("You win!")
         elif choice3 == 'blue':
