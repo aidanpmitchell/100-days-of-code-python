@@ -8,3 +8,4 @@
 - Logical Operators
 
 ## Treasure Island
+![Treasure Island Gif](../images-gifs/treasure-island.gif)
