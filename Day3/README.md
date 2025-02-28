@@ -3,7 +3,7 @@
 ## Concepts Learned/Practiced
 - Control Flow with if / else and Conditional Operators
 - Modulo Operator
-- Nested if statements and elif statements
+- Nested if Statements and elif Statements
 - Multiple If Statements in Succession
 - Logical Operators
 
