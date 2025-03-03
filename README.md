@@ -17,7 +17,7 @@ My progress and projects from the Udemy course: 100 Days of Code: The Complete P
 
 ## Advanced
 
-## Professional Portfolio Projects
+# Professional Portfolio Projects
 
 
 ## Tools and Technologies Covered
