@@ -9,6 +9,7 @@ My progress and projects from the Udemy course: 100 Days of Code: The Complete P
 - [Day 2:](https://github.com/aidanpmitchell/100-days-of-code-python/tree/main/Day2) Understanding Data Types and How to Manipulate Strings
 - [Day 3:](https://github.com/aidanpmitchell/100-days-of-code-python/tree/main/Day3) Control Flow and Logical Operators
 - [Day 4:](https://github.com/aidanpmitchell/100-days-of-code-python/tree/main/Day4) Randomization and Python Lists
+- [Day 5:](https://github.com/aidanpmitchell/100-days-of-code-python/tree/main/Day5) Python Loops
 
 ## Intermediate
 
