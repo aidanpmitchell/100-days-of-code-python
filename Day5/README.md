@@ -5,3 +5,4 @@
 - For loops and the range() function
 
 ## Password Generator
+![Password Generator Gif](../images-gifs/pypassword.gif)
