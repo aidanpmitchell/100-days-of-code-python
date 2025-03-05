@@ -6,3 +6,4 @@
 - While Loops
 
 ## Escaping the Maze
+![Escaping the Maze Gif](../images-gifs/escapethemaze.gif)
