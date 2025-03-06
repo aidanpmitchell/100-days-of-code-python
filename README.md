@@ -12,6 +12,7 @@ My progress and projects from the Udemy course: 100 Days of Code: The Complete P
 - [Day 5:](https://github.com/aidanpmitchell/100-days-of-code-python/tree/main/Day5) Python Loops
 - [Day 6:](https://github.com/aidanpmitchell/100-days-of-code-python/tree/main/Day6) Python Functions & Karel
 - [Day 7:](https://github.com/aidanpmitchell/100-days-of-code-python/tree/main/Day7) Hangman
+- [Day 8:](https://github.com/aidanpmitchell/100-days-of-code-python/tree/main/Day8) Function Parameters & Caesar Cipher
 
 ## Intermediate
 
