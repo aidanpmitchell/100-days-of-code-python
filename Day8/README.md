@@ -5,4 +5,8 @@
 - Positional vs. Keyword Arguments
 
 ## Caesar Cipher
-![Caesar Cipher Gif](../images-gifs/caesarcipher.gif)
+### Encode
+![Encode Gif](../images-gifs/encode.gif)
+
+### Decode
+![Decode Gif](../images-gifs/decode.gif)
