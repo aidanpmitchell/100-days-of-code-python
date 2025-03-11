@@ -5,3 +5,4 @@
 - Nesting Lists and Dictionaries
 
 ## The Secret Auction
+![Auction Gif](../images-gifs/auction.gif)
