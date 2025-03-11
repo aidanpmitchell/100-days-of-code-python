@@ -14,7 +14,6 @@ def find_highest_bidder(auction_details):
     highest_bid = 0
 
     for bidder, bid_amount in auction_details.items():
-        bid_amount = auction_details[bidder]
         if bid_amount > highest_bid:
             highest_bid = bid_amount
             winner = bidder
