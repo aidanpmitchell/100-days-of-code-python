@@ -9,3 +9,4 @@
 - While Loops, Flags and Recursion
 
 ## Calculator
+![Calculator Gif](../images-gifs/calculator.gif)
