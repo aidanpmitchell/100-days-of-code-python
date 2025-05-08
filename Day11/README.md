@@ -4,3 +4,4 @@
 - Refactoring and calling procedures
 
 ## Blackjack
+![Blackjack Gif](../images-gifs/Blackjack.gif)
